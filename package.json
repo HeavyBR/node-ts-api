@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-aula-2",
+  "name": "node-ts-api",
   "version": "1.0.0",
   "main": "./dist/server.js",
   "license": "MIT",
